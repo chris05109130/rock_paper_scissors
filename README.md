@@ -9,5 +9,5 @@ will either go to you or the computer and there is a button to reset the game an
 This game was most needed for me to do because it shows that I know Javascript and being able to produce logic behind it such as being able to get your choice, and the 
 computers choice and then being able to decide a winner
 
-http://localhost/portfolio_new_php_version/javascript_projects/rock_paper_scissors/index.php
+
 
